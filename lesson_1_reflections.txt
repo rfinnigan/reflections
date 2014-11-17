@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Isolated the parts of the two files that were non-identical
+Removed all identical parts
+Made it much easier to analyse where the variations occured 
+which were the root of the error
+
+How could having easy access to the entire history of a file make you a better programmer in the long term?
+Allow you to see the evolution of the program
+Where changes were made, for better or worse
+Have a more complete record for analysis at later date
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Pros:
+Commits can be made at sensible easy to understand times
+Can avoid committing broken or half finished code 
+
+Cons:
+More susceptible to user error
+Could lead to infrequent commits
+Commits could be too large
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Most code involves multiple files working together, thus it makes sense
+for Git to commit all the related files as a group.
+For something like Googl Docs most files will be independant and 
+unrelated to one another so commiting them individually as each one is 
+changed makes more sense.
+
+How can you use the commands git log and git diff to view the history of files?
+git log will show you a record of all the commits made on that repo
+it displays the commit id, author, date and the comment
+git diff takes two commit id's as input and shows the differences between them
+ie the lines deleted and the lines added
+you would use git log to get the commit id's of the commits you'd like to compare 
+then use git diff to compare them 
+
+How might using version control make you more confident to make changes that
+could break something?
+Having version control allows you to return to a previously working state
+Any changes made to the code need not be permanent as one can always revert
+Experimenting with the code now has a safety net
+
+Now that you have your workspace set up, what do you want to try 
+using Git for?
+I want to try try using Git for keeping track of new code,
+Cloning exisiting repositrues,
+and debugging/ error fixing
