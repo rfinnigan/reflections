@@ -18,3 +18,8 @@ When adding new features to an exisiting fully functioning program
 Trying to different ways of coding a feature to see which works better
 When collaborating multiple people could work on new features 
 simultaneously on different branches
+
+How do the diagrams help you visualize the branch structure?
+Diagrams allow you to see where branches come from
+Which commits are unreachable
+Which commits are parents to subsequent commits
