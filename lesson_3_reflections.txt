@@ -4,3 +4,7 @@ When it's important to have off-site backup
 When collaborating with others over the web
 When working on a project from multiple locations
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+To have a more fine grained control over when pulls are made
+To only pull necessary or interesting changes
+To develop new experimental features on your local repo
