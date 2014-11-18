@@ -23,3 +23,7 @@ How do the diagrams help you visualize the branch structure?
 Diagrams allow you to see where branches come from
 Which commits are unreachable
 Which commits are parents to subsequent commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines the changes made on the first branch with those on the secondd branch
+We represent it in the tree like diagram in order to visualise how the changes were made
