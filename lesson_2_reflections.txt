@@ -27,3 +27,8 @@ Which commits are parents to subsequent commits
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It combines the changes made on the first branch with those on the secondd branch
 We represent it in the tree like diagram in order to visualise how the changes were made
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging saves time
+Manually merging reduces the likelihood of error from weird merges
+Auto merge flags conflicts for a user to resolve
