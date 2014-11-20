@@ -18,3 +18,10 @@ What is the benefit of having a copy of the last known state of the remote store
 Allow you to work offline and compare to remote repo
 Allow you to merge into remote repo then push that commit to github
 Allow you to see differences between local and remote repo's
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By sharing code on dropbox
+By sending one another full copies of the code with only one person working on it at a time
+There would be less chance of conflicts
+There would be no easy way of merging or comparing conflicts
+It would be harder to show each other ideas fir changes in the code without changing the main code
