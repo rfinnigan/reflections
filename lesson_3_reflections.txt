@@ -25,3 +25,9 @@ By sending one another full copies of the code with only one person working on i
 There would be less chance of conflicts
 There would be no easy way of merging or comparing conflicts
 It would be harder to show each other ideas fir changes in the code without changing the main code
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When wanting to experiment
+When wanting to have a collaborator see your work and comment on it
+Working only on the master makes things easier to keep track of but can introduce bugs
+Working on branches can seem more complicated but allows for greater flexibility
