@@ -2,7 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 a .git file is created in the working directory
 git begins to monitor the status of the files
 within that directory
-you need to do it to mark a directory as asource for the repository
+you need to do it to mark a directory as a source for the repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It contains only the files to be commited in the next commit
@@ -25,8 +25,8 @@ Which commits are unreachable
 Which commits are parents to subsequent commits
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-It combines the changes made on the first branch with those on the secondd branch
-We represent it in the tree like diagram in order to visualise how the changes were made
+It combines the changes made on the first branch with those on the second branch
+We represent it in the tree like diagram in order to visualise how the changes were made and where different branches have been merged
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Automatic merging saves time
