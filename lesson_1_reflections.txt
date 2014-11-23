@@ -5,8 +5,8 @@ Made it much easier to analyse where the variations occured
 which were the root of the error
 
 How could having easy access to the entire history of a file make you a better programmer in the long term?
-Allow you to see the evolution of the program
-Where changes were made, for better or worse
+It would allow you to see the evolution of the program
+Where changes were made (for better or worse)
 Have a more complete record for analysis at later date
 
 What do you think are the pros and cons of manually choosing when to create a
@@ -15,7 +15,6 @@ docs does?
 Pros:
 Commits can be made at sensible easy to understand times
 Can avoid committing broken or half finished code 
-
 Cons:
 More susceptible to user error
 Could lead to infrequent commits
